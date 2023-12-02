@@ -1,2 +1,4 @@
 # Advent of Code
-Trying it out, let's see how it goes!
+
+- 2022: Python
+- 2023: C
