@@ -10,7 +10,7 @@
 | Day 6  | :star: :star: |               |
 | Day 7  | :star: :star: |               |
 | Day 8  | :star: :star: |               |
-| Day 9  | :star: :star: |               |
+| Day 9  | :star: :star: | :star: :star: |
 | Day 10 | :star: :star: |               | 
 | Day 11 | :star: :star: |               |
 | Day 12 | :star: :star: |               |
@@ -27,4 +27,4 @@
 | Day 23 |               |               |
 | Day 24 |               |               |
 | Day 25 |               |               |
-| Total  | 29/50         | 10/50         |
+| Total  | 29/50         | 12/50         |
