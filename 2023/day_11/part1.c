@@ -38,7 +38,7 @@ int min(int a, int b)
 int main(void)
 {
 	printf("Advent of Code 2023\n");
-	printf("Day 10, part 1\n");
+	printf("Day 11, part 1\n");
 
 	FILE *pInput;
 	pInput = fopen("input.txt", "r");
